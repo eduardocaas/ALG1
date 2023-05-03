@@ -1,5 +1,3 @@
-package com.efc;
-
 public abstract class Computador {
 
     protected String modelo;

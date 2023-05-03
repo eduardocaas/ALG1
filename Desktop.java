@@ -1,5 +1,3 @@
-package com.efc;
-
 public class Desktop extends Computador {
 
     protected Integer potenciaDaFonte;

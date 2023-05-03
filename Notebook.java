@@ -1,5 +1,3 @@
-package com.efc;
-
 public class Notebook extends Computador {
 
     private Integer tempoDeBateria;
